@@ -1,0 +1,29 @@
+
+#container-interno{
+    
+    
+    width: 100%;
+    display:flex;
+}
+
+#container{
+    padding-top: 20vh;
+    padding-left: 30vw;
+    width:33%;
+}
+
+#back-ground{
+    width:100vw;
+   
+   
+   
+    text-align: center;
+    float: none !important;
+    position: inherit;
+    background-image: linear-gradient(180deg, red, blue);;
+    height: 100vh;
+   
+}
+body{
+    margin:0;
+}
